@@ -1,0 +1,13 @@
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.exe
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.deps.json
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.runtimeconfig.json
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.runtimeconfig.dev.json
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.dll
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.pdb
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.csprojAssemblyReference.cache
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.AssemblyInfoInputs.cache
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.AssemblyInfo.cs
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.dll
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.pdb
+C:\Users\chiokeaarhus\Source\Repos\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.genruntimeconfig.cache
